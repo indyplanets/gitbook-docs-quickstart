@@ -1,3 +1,1 @@
-#### Branching for product versions
-
 Since we need to allow different product docs for each product release, we can use git branches to keep our documentation split into separate versions. Using branches also allows the ability to make hotfixes for each individual branch on the fly.
