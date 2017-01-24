@@ -12,6 +12,6 @@ The purpose of this book is to educate the reader in steps to create open source
 ##### Remove `.git` and start fresh
 ```bash
 > cd REPO_NAME
-> (sudo) rm .git
+> (sudo) rm -R .git
 
 ```
