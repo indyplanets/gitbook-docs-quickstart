@@ -1,0 +1,34 @@
+{
+    "plugins": [
+        "versions",
+        "comment",
+        "editlink",
+        "snippets",
+        "ga",
+        "betterpagetitles",
+        "downloadpdf"
+    ],
+    "pluginsConfig": {
+        "versions": {
+            "type": "branches",
+            "includeFilepath": false
+        },
+        "editlink": {
+            "base": "https://github.com/Teradata/listener-documentation/edit/master",
+            "label": "Edit in GitHub",
+            "multilingual": false
+        },
+        "snippets": {
+            "file": "snippets/snippets.properties"
+        },
+        "ga": {
+            "token": "UA-69207726-7",
+            "configuration": "auto"
+        },
+        "downloadpdf": {
+            "base": "https://www.gitbook.com/download/pdf/book/teradata/gitbook-docs-quickstart",
+            "label": "Download PDF",
+            "multilingual": false
+        }
+    }
+}
