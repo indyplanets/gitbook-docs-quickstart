@@ -126,3 +126,13 @@
 .markdown-section h1:first-of-type {
   margin-top: 0;
 }
+
+img.img-size {
+  max-width: 100%;
+  height: auto;
+}
+img.img-size.md {
+  width: 350px;
+  display: block;
+  margin: auto;
+}
