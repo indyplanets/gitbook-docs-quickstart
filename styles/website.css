@@ -7,6 +7,9 @@
 .book-summary {
   background: white;
 }
+.book-summary ul.summary li a.custom-link {
+  display: none !important;
+}
 .book-header {
   color: white;
   background: #f57c00;
@@ -14,8 +17,11 @@
 .book-header .btn {
   color: white;
 }
+.book-header h1, .book-header h1 a, .book-header h1 a {
+  color: transparent !important;
+}
 .book-header h1, .book-header h1 a, .book-header h1 a:hover {
-  color: white;
+  color: transparent !important;
 }
 .book-body {
   background: #eee;
