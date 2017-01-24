@@ -1,1 +1,1 @@
-## Clone quickstart
+<img src="/images/github-clone-quickstart.png" class="img-size">
