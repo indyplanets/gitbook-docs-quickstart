@@ -14,7 +14,7 @@
             "includeFilepath": false
         },
         "editlink": {
-            "base": "https://github.com/Teradata/listener-documentation/edit/master",
+            "base": "https://github.com/indyplanets/gitbook-docs-quickstart/edit/master",
             "label": "Edit in GitHub",
             "multilingual": false
         },
